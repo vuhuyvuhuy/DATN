@@ -1,0 +1,30 @@
+E:\HK Hè - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\HK Hè - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\HK Hè - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\HK Hè - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\HK Hè - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\nguyen\Desktop\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\nguyen\Desktop\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\nguyen\Desktop\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\nguyen\Desktop\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\QuanLyGiuXe Final\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\QuanLyGiuXe Final\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\QuanLyGiuXe Final\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\QuanLyGiuXe Final\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\QuanLyGiuXe Final\QuanLyGiuXe\QuanLyGiuXe\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\QuanLyGiuXe Final 4\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\QuanLyGiuXe Final 4\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\QuanLyGiuXe Final 4\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\QuanLyGiuXe Final 4\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\HK He - 2014-2015-Thuc Tap\QuanLyGiuXe\QuanLyGiuXe Final 4\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\New folder\QuanLyGiuXe\Chuong_Trinh_QuanLyGiuXe Final\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\New folder\QuanLyGiuXe\Chuong_Trinh_QuanLyGiuXe Final\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\New folder\QuanLyGiuXe\Chuong_Trinh_QuanLyGiuXe Final\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\New folder\QuanLyGiuXe\Chuong_Trinh_QuanLyGiuXe Final\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\New folder\QuanLyGiuXe\Chuong_Trinh_QuanLyGiuXe Final\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\New folder\QuanLyGiuXe\Chuong_Trinh_QuanLyGiuXe Final\BusinessLogic\obj\Debug\BusinessLogic.pdb
